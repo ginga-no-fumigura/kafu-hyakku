@@ -1,0 +1,3114 @@
+{
+ "work": "自選 荷風百句",
+ "work_id": "kafu-hyakku",
+ "repo": "undefined/kafu-hyakku",
+ "author": "永井荷風",
+ "yomi": "ひゃっく",
+ "category": "俳句",
+ "kind": "kashu",
+ "description": {
+  "kind": "俳句",
+  "era": "",
+  "author": "永井荷風",
+  "desc": "永井荷風の句集。"
+ },
+ "editions": [
+  {
+   "pid": "aozora",
+   "title": "麻布襍記　――附・自選荷風百句",
+   "editor": "",
+   "series": "",
+   "publisher": "中公文庫、中央公論新社",
+   "year": 2018,
+   "pages": "",
+   "url": "https://www.aozora.gr.jp/cards/001341/card59688.html",
+   "label": "青空文庫",
+   "note": "青空文庫のテキスト（入力: kompass、校正: 砂場清隆）による"
+  }
+ ],
+ "status": "未校正",
+ "license": {
+  "text": "本文はパブリックドメイン。大意と注は CC BY 4.0"
+ },
+ "poems": [],
+ "translation": null,
+ "base": "青空文庫のテキスト（入力: kompass、校正: 砂場清隆）を底本とした。青空文庫の底本は『麻布襍記　――附・自選荷風百句』（中公文庫、中央公論新社、2018）。行分けは青空文庫のまま。",
+ "gyo": true,
+ "blocks": [
+  {
+   "id": "kafu-hyakku-000001",
+   "pid": "",
+   "pages": [],
+   "no": 1,
+   "vol": "自選　荷風百句序",
+   "kotobagaki": "",
+   "author": "",
+   "text": "わが発句の口吟、もとより集にあむべき心とてもなかりしかば、書きもとどめず、年とともに大方は忘れはてしに、おりおり人の訪来りて、わがいなむをも聴かず、短冊色帋なんど請わるるものから、是非もなく旧句をおもい出して責ふさぐことも、やがて度重るにつれ、過ぎにし年月、下町のかなたこなたに佗住いして、朝夕の湯帰りに見てすぎし町のさま、又は女どもと打つどいて三味線引きならいたる夜々のたのしみも、亦おのずから思返されて、かえらぬわかき日のなつかしさに堪えもやらねば、今はさすがに棄てがたき心地せらるるものを択みて、老の寐覚のつれづれをなぐさむるよすがとはなしつ。",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "prose",
+   "ruby": [
+    {
+     "a": "口吟",
+     "r": "こうぎん"
+    },
+    {
+     "a": "大方",
+     "r": "おおかた"
+    },
+    {
+     "a": "訪",
+     "r": "とい"
+    },
+    {
+     "a": "色帋",
+     "r": "しきし"
+    },
+    {
+     "a": "請",
+     "r": "こ"
+    },
+    {
+     "a": "出",
+     "r": "いだ"
+    },
+    {
+     "a": "責",
+     "r": "せめ"
+    },
+    {
+     "a": "度重",
+     "r": "たびかさな"
+    },
+    {
+     "a": "佗住",
+     "r": "わびずま"
+    },
+    {
+     "a": "打",
+     "r": "うち"
+    },
+    {
+     "a": "三味線",
+     "r": "さみせん"
+    },
+    {
+     "a": "択",
+     "r": "えら"
+    },
+    {
+     "a": "老",
+     "r": "おい"
+    }
+   ]
+  },
+  {
+   "id": "kafu-hyakku-000002",
+   "pid": "",
+   "pages": [],
+   "no": 2,
+   "vol": "自選　荷風百句序",
+   "kotobagaki": "",
+   "author": "",
+   "text": "昭和丑のとし夏五月",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "prose",
+   "ruby": [
+    {
+     "a": "丑",
+     "r": "うし"
+    }
+   ]
+  },
+  {
+   "id": "kafu-hyakku-000003",
+   "pid": "",
+   "pages": [],
+   "no": 3,
+   "vol": "自選　荷風百句序",
+   "kotobagaki": "",
+   "author": "",
+   "text": "荷風散人",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "prose"
+  },
+  {
+   "id": "kafu-hyakku-000004",
+   "pid": "",
+   "pages": [],
+   "no": 4,
+   "vol": "春之部",
+   "kotobagaki": "",
+   "author": "",
+   "text": "墨も濃くまづ元日の日記かな",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "haiku",
+   "ruby": [
+    {
+     "a": "墨",
+     "r": "すみ"
+    },
+    {
+     "a": "濃",
+     "r": "こ"
+    }
+   ]
+  },
+  {
+   "id": "kafu-hyakku-000005",
+   "pid": "",
+   "pages": [],
+   "no": 5,
+   "vol": "春之部",
+   "kotobagaki": "",
+   "author": "",
+   "text": "正月や宵寐の町を風のこゑ",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "haiku",
+   "ruby": [
+    {
+     "a": "宵寐",
+     "r": "よひね"
+    }
+   ]
+  },
+  {
+   "id": "kafu-hyakku-000006",
+   "pid": "",
+   "pages": [],
+   "no": 6,
+   "vol": "春之部",
+   "kotobagaki": "",
+   "author": "",
+   "text": "暫の顔にも似たりかざり海老",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "haiku",
+   "ruby": [
+    {
+     "a": "暫",
+     "r": "しばらく"
+    },
+    {
+     "a": "顔",
+     "r": "かほ"
+    },
+    {
+     "a": "海老",
+     "r": "えび"
+    }
+   ]
+  },
+  {
+   "id": "kafu-hyakku-000007",
+   "pid": "",
+   "pages": [],
+   "no": 7,
+   "vol": "春之部",
+   "kotobagaki": "",
+   "author": "",
+   "text": "羽子板や裏絵さびしき夜の梅",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "haiku"
+  },
+  {
+   "id": "kafu-hyakku-000008",
+   "pid": "",
+   "pages": [],
+   "no": 8,
+   "vol": "春之部",
+   "kotobagaki": "",
+   "author": "",
+   "text": "子を持たぬ身のつれ／＼や松の内",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "haiku"
+  },
+  {
+   "id": "kafu-hyakku-000009",
+   "pid": "",
+   "pages": [],
+   "no": 9,
+   "vol": "春之部",
+   "kotobagaki": "九段坂上の茶屋にて",
+   "author": "",
+   "text": "初東風や富士見る町の茶屋つゞき",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "haiku",
+   "ruby": [
+    {
+     "a": "初東風",
+     "r": "はつこち"
+    }
+   ],
+   "kotobagaki_ruby": [
+    {
+     "a": "上",
+     "r": "うへ"
+    }
+   ]
+  },
+  {
+   "id": "kafu-hyakku-000010",
+   "pid": "",
+   "pages": [],
+   "no": 10,
+   "vol": "春之部",
+   "kotobagaki": "",
+   "author": "",
+   "text": "まだ咲かぬ梅をながめて一人かな",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "haiku",
+   "ruby": [
+    {
+     "a": "一人",
+     "r": "ひとり"
+    }
+   ]
+  },
+  {
+   "id": "kafu-hyakku-000011",
+   "pid": "",
+   "pages": [],
+   "no": 11,
+   "vol": "春之部",
+   "kotobagaki": "清元なにがしに贈る",
+   "author": "",
+   "text": "青竹のしのび返や春の雪",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "haiku",
+   "ruby": [
+    {
+     "a": "青竹",
+     "r": "あをだけ"
+    },
+    {
+     "a": "返",
+     "r": "がへし"
+    }
+   ]
+  },
+  {
+   "id": "kafu-hyakku-000012",
+   "pid": "",
+   "pages": [],
+   "no": 12,
+   "vol": "春之部",
+   "kotobagaki": "市川左団次丈煙草入の筒に",
+   "author": "",
+   "text": "春の船名所ゆびさすきせる哉",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "haiku",
+   "ruby": [
+    {
+     "a": "哉",
+     "r": "かな"
+    }
+   ],
+   "kotobagaki_ruby": [
+    {
+     "a": "丈",
+     "r": "ぢやう"
+    },
+    {
+     "a": "煙草入",
+     "r": "たばこいれ"
+    }
+   ]
+  },
+  {
+   "id": "kafu-hyakku-000013",
+   "pid": "",
+   "pages": [],
+   "no": 13,
+   "vol": "春之部",
+   "kotobagaki": "自画像",
+   "author": "",
+   "text": "永き日やつばたれ下る古帽子",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "haiku",
+   "ruby": [
+    {
+     "a": "下",
+     "r": "さが"
+    },
+    {
+     "a": "古帽子",
+     "r": "ふるぼうし"
+    }
+   ]
+  },
+  {
+   "id": "kafu-hyakku-000014",
+   "pid": "",
+   "pages": [],
+   "no": 14,
+   "vol": "春之部",
+   "kotobagaki": "浅草画賛",
+   "author": "",
+   "text": "永き日や鳩も見てゐる居合抜",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "haiku",
+   "ruby": [
+    {
+     "a": "居合抜",
+     "r": "ゐあひぬき"
+    }
+   ]
+  },
+  {
+   "id": "kafu-hyakku-000015",
+   "pid": "",
+   "pages": [],
+   "no": 15,
+   "vol": "春之部",
+   "kotobagaki": "柳嶋画賛",
+   "author": "",
+   "text": "春寒や船からあがる女づれ",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "haiku",
+   "ruby": [
+    {
+     "a": "春寒",
+     "r": "はるさむ"
+    }
+   ],
+   "kotobagaki_ruby": [
+    {
+     "a": "柳嶋",
+     "r": "やなぎしま"
+    }
+   ]
+  },
+  {
+   "id": "kafu-hyakku-000016",
+   "pid": "",
+   "pages": [],
+   "no": 16,
+   "vol": "春之部",
+   "kotobagaki": "",
+   "author": "",
+   "text": "葡萄酒の色にさきけりさくら艸",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "haiku",
+   "ruby": [
+    {
+     "a": "葡萄酒",
+     "r": "ぶだうしゆ"
+    },
+    {
+     "a": "艸",
+     "r": "さう"
+    }
+   ]
+  },
+  {
+   "id": "kafu-hyakku-000017",
+   "pid": "",
+   "pages": [],
+   "no": 17,
+   "vol": "春之部",
+   "kotobagaki": "",
+   "author": "",
+   "text": "紅梅に雪のふる日や茶のけいこ",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "haiku",
+   "ruby": [
+    {
+     "a": "紅梅",
+     "r": "こうばい"
+    }
+   ]
+  },
+  {
+   "id": "kafu-hyakku-000018",
+   "pid": "",
+   "pages": [],
+   "no": 18,
+   "vol": "春之部",
+   "kotobagaki": "",
+   "author": "",
+   "text": "出そびれて家にゐる日やさし柳",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "haiku",
+   "ruby": [
+    {
+     "a": "出",
+     "r": "で"
+    }
+   ]
+  },
+  {
+   "id": "kafu-hyakku-000019",
+   "pid": "",
+   "pages": [],
+   "no": 19,
+   "vol": "春之部",
+   "kotobagaki": "銀座裏の或酒亭にて二句",
+   "author": "",
+   "text": "よけて入る雨の柳や切戸口",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "haiku",
+   "ruby": [
+    {
+     "a": "入",
+     "r": "い"
+    },
+    {
+     "a": "切戸口",
+     "r": "きりどぐち"
+    }
+   ],
+   "kotobagaki_ruby": [
+    {
+     "a": "或",
+     "r": "ある"
+    }
+   ]
+  },
+  {
+   "id": "kafu-hyakku-000020",
+   "pid": "",
+   "pages": [],
+   "no": 20,
+   "vol": "春之部",
+   "kotobagaki": "",
+   "author": "",
+   "text": "傘さゝぬ人のゆきゝや春の雨",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "haiku"
+  },
+  {
+   "id": "kafu-hyakku-000021",
+   "pid": "",
+   "pages": [],
+   "no": 21,
+   "vol": "春之部",
+   "kotobagaki": "妓楼の行燈に",
+   "author": "",
+   "text": "しのび音も泥の中なる田螺哉",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "haiku",
+   "ruby": [
+    {
+     "a": "音",
+     "r": "ね"
+    },
+    {
+     "a": "田螺",
+     "r": "たにし"
+    }
+   ],
+   "kotobagaki_ruby": [
+    {
+     "a": "行燈",
+     "r": "あんどう"
+    }
+   ]
+  },
+  {
+   "id": "kafu-hyakku-000022",
+   "pid": "",
+   "pages": [],
+   "no": 22,
+   "vol": "春之部",
+   "kotobagaki": "",
+   "author": "",
+   "text": "室咲の西洋花や春寒し",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "haiku",
+   "ruby": [
+    {
+     "a": "室咲",
+     "r": "むろざき"
+    },
+    {
+     "a": "花",
+     "r": "ばな"
+    }
+   ]
+  },
+  {
+   "id": "kafu-hyakku-000023",
+   "pid": "",
+   "pages": [],
+   "no": 23,
+   "vol": "春之部",
+   "kotobagaki": "",
+   "author": "",
+   "text": "日のあたる窓の障子や福寿草",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "haiku",
+   "ruby": [
+    {
+     "a": "障子",
+     "r": "しやうじ"
+    },
+    {
+     "a": "福寿草",
+     "r": "ふくじゆさう"
+    }
+   ]
+  },
+  {
+   "id": "kafu-hyakku-000024",
+   "pid": "",
+   "pages": [],
+   "no": 24,
+   "vol": "春之部",
+   "kotobagaki": "",
+   "author": "",
+   "text": "うぐひすや障子にうつる水の紋",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "haiku",
+   "ruby": [
+    {
+     "a": "紋",
+     "r": "あや"
+    }
+   ]
+  },
+  {
+   "id": "kafu-hyakku-000025",
+   "pid": "",
+   "pages": [],
+   "no": 25,
+   "vol": "春之部",
+   "kotobagaki": "",
+   "author": "",
+   "text": "色町や真昼しづかに猫の恋",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "haiku"
+  },
+  {
+   "id": "kafu-hyakku-000026",
+   "pid": "",
+   "pages": [],
+   "no": 26,
+   "vol": "春之部",
+   "kotobagaki": "画賛",
+   "author": "",
+   "text": "門の灯や昼もそのまゝ糸柳",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "haiku",
+   "ruby": [
+    {
+     "a": "門",
+     "r": "かど"
+    },
+    {
+     "a": "灯",
+     "r": "ひ"
+    },
+    {
+     "a": "糸柳",
+     "r": "いとやなぎ"
+    }
+   ]
+  },
+  {
+   "id": "kafu-hyakku-000027",
+   "pid": "",
+   "pages": [],
+   "no": 27,
+   "vol": "春之部",
+   "kotobagaki": "",
+   "author": "",
+   "text": "石垣にはこべの花や橋普請",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "haiku",
+   "ruby": [
+    {
+     "a": "橋普請",
+     "r": "はしぶしん"
+    }
+   ]
+  },
+  {
+   "id": "kafu-hyakku-000028",
+   "pid": "",
+   "pages": [],
+   "no": 28,
+   "vol": "春之部",
+   "kotobagaki": "送別二句",
+   "author": "",
+   "text": "笈を負ふうしろ姿や花のくも",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "haiku",
+   "ruby": [
+    {
+     "a": "笈",
+     "r": "きふ"
+    },
+    {
+     "a": "負",
+     "r": "お"
+    }
+   ]
+  },
+  {
+   "id": "kafu-hyakku-000029",
+   "pid": "",
+   "pages": [],
+   "no": 29,
+   "vol": "春之部",
+   "kotobagaki": "",
+   "author": "",
+   "text": "行先はさぞや門出の初ざくら",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "haiku",
+   "ruby": [
+    {
+     "a": "行先",
+     "r": "ゆくさき"
+    },
+    {
+     "a": "門出",
+     "r": "かどで"
+    }
+   ]
+  },
+  {
+   "id": "kafu-hyakku-000030",
+   "pid": "",
+   "pages": [],
+   "no": 30,
+   "vol": "春之部",
+   "kotobagaki": "",
+   "author": "",
+   "text": "鼬鳴く庭の小雨や暮の春",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "haiku",
+   "ruby": [
+    {
+     "a": "鼬",
+     "r": "いたち"
+    },
+    {
+     "a": "小雨",
+     "r": "こあめ"
+    },
+    {
+     "a": "暮",
+     "r": "くれ"
+    }
+   ]
+  },
+  {
+   "id": "kafu-hyakku-000031",
+   "pid": "",
+   "pages": [],
+   "no": 31,
+   "vol": "春之部",
+   "kotobagaki": "",
+   "author": "",
+   "text": "行春やゆるむ鼻緒の日和下駄",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "haiku",
+   "ruby": [
+    {
+     "a": "行春",
+     "r": "ゆくはる"
+    },
+    {
+     "a": "鼻緒",
+     "r": "はなを"
+    },
+    {
+     "a": "日和下駄",
+     "r": "ひよりげた"
+    }
+   ]
+  },
+  {
+   "id": "kafu-hyakku-000032",
+   "pid": "",
+   "pages": [],
+   "no": 32,
+   "vol": "春之部",
+   "kotobagaki": "",
+   "author": "",
+   "text": "春惜しむ風の一日や船の上",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "haiku",
+   "ruby": [
+    {
+     "a": "惜",
+     "r": "を"
+    },
+    {
+     "a": "一日",
+     "r": "ひとひ"
+    },
+    {
+     "a": "上",
+     "r": "うへ"
+    }
+   ]
+  },
+  {
+   "id": "kafu-hyakku-000033",
+   "pid": "",
+   "pages": [],
+   "no": 33,
+   "vol": "夏之部",
+   "kotobagaki": "",
+   "author": "",
+   "text": "夕風や吹くともなしに竹の秋",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "haiku",
+   "ruby": [
+    {
+     "a": "夕風",
+     "r": "ゆふかぜ"
+    }
+   ]
+  },
+  {
+   "id": "kafu-hyakku-000034",
+   "pid": "",
+   "pages": [],
+   "no": 34,
+   "vol": "夏之部",
+   "kotobagaki": "",
+   "author": "",
+   "text": "よし切や葛飾ひろき北みなみ",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "haiku",
+   "ruby": [
+    {
+     "a": "切",
+     "r": "きり"
+    },
+    {
+     "a": "葛飾",
+     "r": "かつしか"
+    }
+   ]
+  },
+  {
+   "id": "kafu-hyakku-000035",
+   "pid": "",
+   "pages": [],
+   "no": 35,
+   "vol": "夏之部",
+   "kotobagaki": "待つ人の来ざりしかば",
+   "author": "",
+   "text": "水雞さへ待てどたゝかぬ夜なりけり",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "haiku",
+   "ruby": [
+    {
+     "a": "水雞",
+     "r": "くひな"
+    },
+    {
+     "a": "夜",
+     "r": "よ"
+    }
+   ]
+  },
+  {
+   "id": "kafu-hyakku-000036",
+   "pid": "",
+   "pages": [],
+   "no": 36,
+   "vol": "夏之部",
+   "kotobagaki": "築地閑居",
+   "author": "",
+   "text": "夕河岸の鰺売る声や雨あがり",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "haiku",
+   "ruby": [
+    {
+     "a": "夕河岸",
+     "r": "ゆふがし"
+    },
+    {
+     "a": "鰺",
+     "r": "あぢ"
+    },
+    {
+     "a": "雨",
+     "r": "あま"
+    }
+   ]
+  },
+  {
+   "id": "kafu-hyakku-000037",
+   "pid": "",
+   "pages": [],
+   "no": 37,
+   "vol": "夏之部",
+   "kotobagaki": "",
+   "author": "",
+   "text": "御家人の傘張る門や桐の花",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "haiku",
+   "ruby": [
+    {
+     "a": "御家人",
+     "r": "ごけにん"
+    },
+    {
+     "a": "門",
+     "r": "かど"
+    }
+   ]
+  },
+  {
+   "id": "kafu-hyakku-000038",
+   "pid": "",
+   "pages": [],
+   "no": 38,
+   "vol": "夏之部",
+   "kotobagaki": "",
+   "author": "",
+   "text": "明やすき夜や土蔵の白き壁",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "haiku",
+   "ruby": [
+    {
+     "a": "明",
+     "r": "あけ"
+    },
+    {
+     "a": "夜",
+     "r": "よ"
+    },
+    {
+     "a": "土蔵",
+     "r": "どざう"
+    }
+   ]
+  },
+  {
+   "id": "kafu-hyakku-000039",
+   "pid": "",
+   "pages": [],
+   "no": 39,
+   "vol": "夏之部",
+   "kotobagaki": "",
+   "author": "",
+   "text": "青梅の屋根打つ音や五月寒",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "haiku",
+   "ruby": [
+    {
+     "a": "青梅",
+     "r": "あをうめ"
+    },
+    {
+     "a": "五月寒",
+     "r": "さつきさむ"
+    }
+   ]
+  },
+  {
+   "id": "kafu-hyakku-000040",
+   "pid": "",
+   "pages": [],
+   "no": 40,
+   "vol": "夏之部",
+   "kotobagaki": "",
+   "author": "",
+   "text": "八文字ふむや金魚のおよぎぶり",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "haiku",
+   "ruby": [
+    {
+     "a": "八文字",
+     "r": "はちもんじ"
+    }
+   ]
+  },
+  {
+   "id": "kafu-hyakku-000041",
+   "pid": "",
+   "pages": [],
+   "no": 41,
+   "vol": "夏之部",
+   "kotobagaki": "",
+   "author": "",
+   "text": "荷船にもなびく幟や小網河岸",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "haiku",
+   "ruby": [
+    {
+     "a": "荷船",
+     "r": "にぶね"
+    },
+    {
+     "a": "幟",
+     "r": "のぼり"
+    },
+    {
+     "a": "小網河岸",
+     "r": "こあみがし"
+    }
+   ]
+  },
+  {
+   "id": "kafu-hyakku-000042",
+   "pid": "",
+   "pages": [],
+   "no": 42,
+   "vol": "夏之部",
+   "kotobagaki": "四月十八日",
+   "author": "",
+   "text": "物干に富士やをがまむ北斎忌",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "haiku",
+   "ruby": [
+    {
+     "a": "物干",
+     "r": "ものほし"
+    },
+    {
+     "a": "北斎忌",
+     "r": "ほくさいき"
+    }
+   ]
+  },
+  {
+   "id": "kafu-hyakku-000043",
+   "pid": "",
+   "pages": [],
+   "no": 43,
+   "vol": "夏之部",
+   "kotobagaki": "",
+   "author": "",
+   "text": "芍薬やつくゑの上の紅楼夢",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "haiku",
+   "ruby": [
+    {
+     "a": "芍薬",
+     "r": "しやくやく"
+    },
+    {
+     "a": "紅楼夢",
+     "r": "こうろうむ"
+    }
+   ]
+  },
+  {
+   "id": "kafu-hyakku-000044",
+   "pid": "",
+   "pages": [],
+   "no": 44,
+   "vol": "夏之部",
+   "kotobagaki": "",
+   "author": "",
+   "text": "卯の花や小橋を前のくゞり門",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "haiku",
+   "ruby": [
+    {
+     "a": "卯",
+     "r": "う"
+    },
+    {
+     "a": "小橋",
+     "r": "こはし"
+    },
+    {
+     "a": "前",
+     "r": "まへ"
+    }
+   ]
+  },
+  {
+   "id": "kafu-hyakku-000045",
+   "pid": "",
+   "pages": [],
+   "no": 45,
+   "vol": "夏之部",
+   "kotobagaki": "",
+   "author": "",
+   "text": "百合の香や人待つ門の薄月夜",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "haiku",
+   "ruby": [
+    {
+     "a": "百合",
+     "r": "ゆり"
+    },
+    {
+     "a": "香",
+     "r": "か"
+    },
+    {
+     "a": "門",
+     "r": "かど"
+    },
+    {
+     "a": "薄月夜",
+     "r": "うすづきよ"
+    }
+   ]
+  },
+  {
+   "id": "kafu-hyakku-000046",
+   "pid": "",
+   "pages": [],
+   "no": 46,
+   "vol": "夏之部",
+   "kotobagaki": "",
+   "author": "",
+   "text": "蝙蝠やひるも燈ともす楽屋口",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "haiku",
+   "ruby": [
+    {
+     "a": "蝙蝠",
+     "r": "かうもり"
+    },
+    {
+     "a": "燈",
+     "r": "ひ"
+    },
+    {
+     "a": "楽屋口",
+     "r": "がくやぐち"
+    }
+   ]
+  },
+  {
+   "id": "kafu-hyakku-000047",
+   "pid": "",
+   "pages": [],
+   "no": 47,
+   "vol": "夏之部",
+   "kotobagaki": "",
+   "author": "",
+   "text": "石菖や窓から見える柳ばし",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "haiku",
+   "ruby": [
+    {
+     "a": "石菖",
+     "r": "せきしやう"
+    }
+   ]
+  },
+  {
+   "id": "kafu-hyakku-000048",
+   "pid": "",
+   "pages": [],
+   "no": 48,
+   "vol": "夏之部",
+   "kotobagaki": "",
+   "author": "",
+   "text": "一ツ目の橋や墨絵のほとゝぎす",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "haiku",
+   "ruby": [
+    {
+     "a": "一",
+     "r": "ひと"
+    },
+    {
+     "a": "目",
+     "r": "め"
+    }
+   ]
+  },
+  {
+   "id": "kafu-hyakku-000049",
+   "pid": "",
+   "pages": [],
+   "no": 49,
+   "vol": "夏之部",
+   "kotobagaki": "向嶋水神の茶屋にて",
+   "author": "",
+   "text": "葉ざくらや人に知られぬ昼あそび",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "haiku",
+   "kotobagaki_ruby": [
+    {
+     "a": "水神",
+     "r": "すゐじん"
+    }
+   ]
+  },
+  {
+   "id": "kafu-hyakku-000050",
+   "pid": "",
+   "pages": [],
+   "no": 50,
+   "vol": "夏之部",
+   "kotobagaki": "",
+   "author": "",
+   "text": "散りて後悟るすがたや芥子の花",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "haiku",
+   "ruby": [
+    {
+     "a": "後",
+     "r": "のち"
+    },
+    {
+     "a": "芥子",
+     "r": "けし"
+    }
+   ]
+  },
+  {
+   "id": "kafu-hyakku-000051",
+   "pid": "",
+   "pages": [],
+   "no": 51,
+   "vol": "夏之部",
+   "kotobagaki": "",
+   "author": "",
+   "text": "わが儘にのびて花さく薊かな",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "haiku",
+   "ruby": [
+    {
+     "a": "儘",
+     "r": "まま"
+    },
+    {
+     "a": "薊",
+     "r": "あざみ"
+    }
+   ]
+  },
+  {
+   "id": "kafu-hyakku-000052",
+   "pid": "",
+   "pages": [],
+   "no": 52,
+   "vol": "夏之部",
+   "kotobagaki": "",
+   "author": "",
+   "text": "あぢさゐや瀧夜叉姫が花かざし",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "haiku",
+   "ruby": [
+    {
+     "a": "瀧夜叉姫",
+     "r": "たきやしやひめ"
+    }
+   ]
+  },
+  {
+   "id": "kafu-hyakku-000053",
+   "pid": "",
+   "pages": [],
+   "no": 53,
+   "vol": "夏之部",
+   "kotobagaki": "",
+   "author": "",
+   "text": "拝領の一軸古りし牡丹哉",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "haiku",
+   "ruby": [
+    {
+     "a": "一軸",
+     "r": "いちぢく"
+    },
+    {
+     "a": "古",
+     "r": "ふ"
+    },
+    {
+     "a": "牡丹",
+     "r": "ぼたん"
+    },
+    {
+     "a": "哉",
+     "r": "かな"
+    }
+   ]
+  },
+  {
+   "id": "kafu-hyakku-000054",
+   "pid": "",
+   "pages": [],
+   "no": 54,
+   "vol": "夏之部",
+   "kotobagaki": "",
+   "author": "",
+   "text": "涼しさや庭のあかりは鄰から",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "haiku",
+   "ruby": [
+    {
+     "a": "鄰",
+     "r": "となり"
+    }
+   ]
+  },
+  {
+   "id": "kafu-hyakku-000055",
+   "pid": "",
+   "pages": [],
+   "no": 55,
+   "vol": "夏之部",
+   "kotobagaki": "",
+   "author": "",
+   "text": "枝刈りて柳すゞしき月夜哉",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "haiku"
+  },
+  {
+   "id": "kafu-hyakku-000056",
+   "pid": "",
+   "pages": [],
+   "no": 56,
+   "vol": "夏之部",
+   "kotobagaki": "",
+   "author": "",
+   "text": "涼風を腹一ぱいの仁王かな",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "haiku",
+   "ruby": [
+    {
+     "a": "涼風",
+     "r": "すずかぜ"
+    },
+    {
+     "a": "腹",
+     "r": "はら"
+    },
+    {
+     "a": "一",
+     "r": "いつ"
+    }
+   ]
+  },
+  {
+   "id": "kafu-hyakku-000057",
+   "pid": "",
+   "pages": [],
+   "no": 57,
+   "vol": "夏之部",
+   "kotobagaki": "",
+   "author": "",
+   "text": "鞘ながら筆もかびけりさつき雨",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "haiku",
+   "ruby": [
+    {
+     "a": "鞘",
+     "r": "さや"
+    },
+    {
+     "a": "筆",
+     "r": "ふで"
+    }
+   ]
+  },
+  {
+   "id": "kafu-hyakku-000058",
+   "pid": "",
+   "pages": [],
+   "no": 58,
+   "vol": "夏之部",
+   "kotobagaki": "",
+   "author": "",
+   "text": "五月雨の或夜は秋のこゝろ哉",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "haiku",
+   "ruby": [
+    {
+     "a": "五月雨",
+     "r": "さみだれ"
+    },
+    {
+     "a": "或夜",
+     "r": "あるよ"
+    }
+   ]
+  },
+  {
+   "id": "kafu-hyakku-000059",
+   "pid": "",
+   "pages": [],
+   "no": 59,
+   "vol": "夏之部",
+   "kotobagaki": "",
+   "author": "",
+   "text": "住みあきし我家ながらも青簾",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "haiku",
+   "ruby": [
+    {
+     "a": "我家",
+     "r": "わがや"
+    },
+    {
+     "a": "青簾",
+     "r": "あをすだれ"
+    }
+   ]
+  },
+  {
+   "id": "kafu-hyakku-000060",
+   "pid": "",
+   "pages": [],
+   "no": 60,
+   "vol": "夏之部",
+   "kotobagaki": "",
+   "author": "",
+   "text": "蚊ばしらを見てゐる中に月夜哉",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "haiku",
+   "ruby": [
+    {
+     "a": "中",
+     "r": "うち"
+    }
+   ]
+  },
+  {
+   "id": "kafu-hyakku-000061",
+   "pid": "",
+   "pages": [],
+   "no": 61,
+   "vol": "夏之部",
+   "kotobagaki": "",
+   "author": "",
+   "text": "藪越しに動く白帆や雲の峯",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "haiku",
+   "ruby": [
+    {
+     "a": "藪越",
+     "r": "やぶご"
+    },
+    {
+     "a": "白帆",
+     "r": "しらほ"
+    }
+   ]
+  },
+  {
+   "id": "kafu-hyakku-000062",
+   "pid": "",
+   "pages": [],
+   "no": 62,
+   "vol": "夏之部",
+   "kotobagaki": "中洲眺望",
+   "author": "",
+   "text": "深川や低き家並のさつき空",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "haiku",
+   "ruby": [
+    {
+     "a": "深川",
+     "r": "ふかがは"
+    },
+    {
+     "a": "家並",
+     "r": "やなみ"
+    }
+   ],
+   "kotobagaki_ruby": [
+    {
+     "a": "中洲",
+     "r": "なかず"
+    }
+   ]
+  },
+  {
+   "id": "kafu-hyakku-000063",
+   "pid": "",
+   "pages": [],
+   "no": 63,
+   "vol": "夏之部",
+   "kotobagaki": "",
+   "author": "",
+   "text": "みち潮や風も南のさつき川",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "haiku",
+   "ruby": [
+    {
+     "a": "潮",
+     "r": "しほ"
+    }
+   ]
+  },
+  {
+   "id": "kafu-hyakku-000064",
+   "pid": "",
+   "pages": [],
+   "no": 64,
+   "vol": "夏之部",
+   "kotobagaki": "妓の持ちし扇に",
+   "author": "",
+   "text": "気に入らぬ髪結直すあつさ哉",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "haiku",
+   "ruby": [
+    {
+     "a": "結直",
+     "r": "ゆひなほ"
+    }
+   ],
+   "kotobagaki_ruby": [
+    {
+     "a": "妓",
+     "r": "ぎ"
+    },
+    {
+     "a": "扇",
+     "r": "あふぎ"
+    }
+   ]
+  },
+  {
+   "id": "kafu-hyakku-000065",
+   "pid": "",
+   "pages": [],
+   "no": 65,
+   "vol": "夏之部",
+   "kotobagaki": "",
+   "author": "",
+   "text": "秋近き夜ふけの風や屋根の草",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "haiku",
+   "ruby": [
+    {
+     "a": "夜",
+     "r": "よ"
+    }
+   ]
+  },
+  {
+   "id": "kafu-hyakku-000066",
+   "pid": "",
+   "pages": [],
+   "no": 66,
+   "vol": "秋之部",
+   "kotobagaki": "",
+   "author": "",
+   "text": "蘭の葉のとがりし先や初嵐",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "haiku",
+   "ruby": [
+    {
+     "a": "蘭",
+     "r": "らん"
+    },
+    {
+     "a": "先",
+     "r": "さき"
+    },
+    {
+     "a": "初嵐",
+     "r": "はつあらし"
+    }
+   ]
+  },
+  {
+   "id": "kafu-hyakku-000067",
+   "pid": "",
+   "pages": [],
+   "no": 67,
+   "vol": "秋之部",
+   "kotobagaki": "",
+   "author": "",
+   "text": "稲妻や世をすねて住む竹の奥",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "haiku",
+   "ruby": [
+    {
+     "a": "稲妻",
+     "r": "いなづま"
+    }
+   ]
+  },
+  {
+   "id": "kafu-hyakku-000068",
+   "pid": "",
+   "pages": [],
+   "no": 68,
+   "vol": "秋之部",
+   "kotobagaki": "女の絵姿に",
+   "author": "",
+   "text": "半襟も蔦のもみぢや窓の秋",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "haiku",
+   "ruby": [
+    {
+     "a": "半襟",
+     "r": "はんえり"
+    },
+    {
+     "a": "蔦",
+     "r": "つた"
+    }
+   ]
+  },
+  {
+   "id": "kafu-hyakku-000069",
+   "pid": "",
+   "pages": [],
+   "no": 69,
+   "vol": "秋之部",
+   "kotobagaki": "四谷怪談画賛四句",
+   "author": "",
+   "text": "初汐や寄る藻の中に人の骨",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "haiku",
+   "ruby": [
+    {
+     "a": "初汐",
+     "r": "はつしほ"
+    },
+    {
+     "a": "藻",
+     "r": "も"
+    },
+    {
+     "a": "中",
+     "r": "なか"
+    }
+   ]
+  },
+  {
+   "id": "kafu-hyakku-000070",
+   "pid": "",
+   "pages": [],
+   "no": 70,
+   "vol": "秋之部",
+   "kotobagaki": "",
+   "author": "",
+   "text": "樒売る小家の窓や秋の風",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "haiku",
+   "ruby": [
+    {
+     "a": "樒",
+     "r": "しきび"
+    },
+    {
+     "a": "小家",
+     "r": "こいへ"
+    }
+   ]
+  },
+  {
+   "id": "kafu-hyakku-000071",
+   "pid": "",
+   "pages": [],
+   "no": 71,
+   "vol": "秋之部",
+   "kotobagaki": "",
+   "author": "",
+   "text": "人のもの質に置きけり暮の秋",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "haiku",
+   "ruby": [
+    {
+     "a": "質",
+     "r": "しち"
+    }
+   ]
+  },
+  {
+   "id": "kafu-hyakku-000072",
+   "pid": "",
+   "pages": [],
+   "no": 72,
+   "vol": "秋之部",
+   "kotobagaki": "",
+   "author": "",
+   "text": "川風も秋となりけり釣の糸",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "haiku",
+   "ruby": [
+    {
+     "a": "釣",
+     "r": "つり"
+    }
+   ]
+  },
+  {
+   "id": "kafu-hyakku-000073",
+   "pid": "",
+   "pages": [],
+   "no": 73,
+   "vol": "秋之部",
+   "kotobagaki": "",
+   "author": "",
+   "text": "象も耳立てゝ聞くかや秋の風",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "haiku",
+   "ruby": [
+    {
+     "a": "象",
+     "r": "ざう"
+    }
+   ]
+  },
+  {
+   "id": "kafu-hyakku-000074",
+   "pid": "",
+   "pages": [],
+   "no": 74,
+   "vol": "秋之部",
+   "kotobagaki": "",
+   "author": "",
+   "text": "鯊つりの見返る空や本願寺",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "haiku",
+   "ruby": [
+    {
+     "a": "鯊",
+     "r": "はぜ"
+    },
+    {
+     "a": "本願寺",
+     "r": "ほんぐわんじ"
+    }
+   ]
+  },
+  {
+   "id": "kafu-hyakku-000075",
+   "pid": "",
+   "pages": [],
+   "no": 75,
+   "vol": "秋之部",
+   "kotobagaki": "",
+   "author": "",
+   "text": "庭下駄の重きあゆみや露の萩",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "haiku",
+   "ruby": [
+    {
+     "a": "庭下駄",
+     "r": "にはげた"
+    },
+    {
+     "a": "萩",
+     "r": "はぎ"
+    }
+   ]
+  },
+  {
+   "id": "kafu-hyakku-000076",
+   "pid": "",
+   "pages": [],
+   "no": 76,
+   "vol": "秋之部",
+   "kotobagaki": "",
+   "author": "",
+   "text": "かくれ住む門に目立つや葉雞頭",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "haiku",
+   "ruby": [
+    {
+     "a": "門",
+     "r": "かど"
+    },
+    {
+     "a": "葉雞頭",
+     "r": "はげいとう"
+    }
+   ]
+  },
+  {
+   "id": "kafu-hyakku-000077",
+   "pid": "",
+   "pages": [],
+   "no": 77,
+   "vol": "秋之部",
+   "kotobagaki": "",
+   "author": "",
+   "text": "浅草や夜長の町の古着店",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "haiku",
+   "ruby": [
+    {
+     "a": "浅草",
+     "r": "あさくさ"
+    },
+    {
+     "a": "夜長",
+     "r": "よなが"
+    },
+    {
+     "a": "古着店",
+     "r": "ふるぎみせ"
+    }
+   ]
+  },
+  {
+   "id": "kafu-hyakku-000078",
+   "pid": "",
+   "pages": [],
+   "no": 78,
+   "vol": "秋之部",
+   "kotobagaki": "",
+   "author": "",
+   "text": "糸屑にまじる柳の一葉かな",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "haiku",
+   "ruby": [
+    {
+     "a": "糸屑",
+     "r": "いとくづ"
+    },
+    {
+     "a": "一葉",
+     "r": "ひとは"
+    }
+   ]
+  },
+  {
+   "id": "kafu-hyakku-000079",
+   "pid": "",
+   "pages": [],
+   "no": 79,
+   "vol": "秋之部",
+   "kotobagaki": "病中の吟",
+   "author": "",
+   "text": "粉薬やあふむく口に秋の風",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "haiku",
+   "ruby": [
+    {
+     "a": "粉薬",
+     "r": "こぐすり"
+    }
+   ]
+  },
+  {
+   "id": "kafu-hyakku-000080",
+   "pid": "",
+   "pages": [],
+   "no": 80,
+   "vol": "秋之部",
+   "kotobagaki": "",
+   "author": "",
+   "text": "降り足らぬ残暑の雨や屋根の塵",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "haiku",
+   "ruby": [
+    {
+     "a": "塵",
+     "r": "ちり"
+    }
+   ]
+  },
+  {
+   "id": "kafu-hyakku-000081",
+   "pid": "",
+   "pages": [],
+   "no": 81,
+   "vol": "秋之部",
+   "kotobagaki": "",
+   "author": "",
+   "text": "秋の雲雨ならむとして海の上",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "haiku"
+  },
+  {
+   "id": "kafu-hyakku-000082",
+   "pid": "",
+   "pages": [],
+   "no": 82,
+   "vol": "秋之部",
+   "kotobagaki": "",
+   "author": "",
+   "text": "引汐や蘆間にうごく秋の雲",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "haiku",
+   "ruby": [
+    {
+     "a": "引汐",
+     "r": "ひきしほ"
+    },
+    {
+     "a": "蘆間",
+     "r": "あしま"
+    }
+   ]
+  },
+  {
+   "id": "kafu-hyakku-000083",
+   "pid": "",
+   "pages": [],
+   "no": 83,
+   "vol": "秋之部",
+   "kotobagaki": "",
+   "author": "",
+   "text": "物足るや葡萄無花果倉ずまひ",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "haiku",
+   "ruby": [
+    {
+     "a": "物足",
+     "r": "ものた"
+    },
+    {
+     "a": "葡萄",
+     "r": "ぶだう"
+    },
+    {
+     "a": "無花果",
+     "r": "いちじゆく"
+    }
+   ]
+  },
+  {
+   "id": "kafu-hyakku-000084",
+   "pid": "",
+   "pages": [],
+   "no": 84,
+   "vol": "秋之部",
+   "kotobagaki": "芝口の茶屋金兵衛にて三句",
+   "author": "",
+   "text": "盛塩の露にとけ行く夜ごろかな",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "haiku",
+   "ruby": [
+    {
+     "a": "盛塩",
+     "r": "もりしほ"
+    },
+    {
+     "a": "行",
+     "r": "ゆ"
+    },
+    {
+     "a": "夜",
+     "r": "よ"
+    }
+   ],
+   "kotobagaki_ruby": [
+    {
+     "a": "芝口",
+     "r": "しばぐち"
+    },
+    {
+     "a": "金兵衛",
+     "r": "きんべゑ"
+    }
+   ]
+  },
+  {
+   "id": "kafu-hyakku-000085",
+   "pid": "",
+   "pages": [],
+   "no": 85,
+   "vol": "秋之部",
+   "kotobagaki": "",
+   "author": "",
+   "text": "柚の香や秋もふけ行く夜の膳",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "haiku",
+   "ruby": [
+    {
+     "a": "柚",
+     "r": "ゆず"
+    },
+    {
+     "a": "香",
+     "r": "か"
+    },
+    {
+     "a": "膳",
+     "r": "ぜん"
+    }
+   ]
+  },
+  {
+   "id": "kafu-hyakku-000086",
+   "pid": "",
+   "pages": [],
+   "no": 86,
+   "vol": "秋之部",
+   "kotobagaki": "",
+   "author": "",
+   "text": "秋風や鮎焼く塩のこげ加減",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "haiku",
+   "ruby": [
+    {
+     "a": "鮎",
+     "r": "あゆ"
+    },
+    {
+     "a": "加減",
+     "r": "かげん"
+    }
+   ]
+  },
+  {
+   "id": "kafu-hyakku-000087",
+   "pid": "",
+   "pages": [],
+   "no": 87,
+   "vol": "秋之部",
+   "kotobagaki": "小波大人追悼",
+   "author": "",
+   "text": "極楽に行く人送る花野かな",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "haiku",
+   "ruby": [
+    {
+     "a": "極楽",
+     "r": "ごくらく"
+    },
+    {
+     "a": "花野",
+     "r": "はなの"
+    }
+   ],
+   "kotobagaki_ruby": [
+    {
+     "a": "小波大人",
+     "r": "さざなみうし"
+    }
+   ]
+  },
+  {
+   "id": "kafu-hyakku-000088",
+   "pid": "",
+   "pages": [],
+   "no": 88,
+   "vol": "秋之部",
+   "kotobagaki": "妓の写真に",
+   "author": "",
+   "text": "吉日をえらむ弘めや菊日和",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "haiku",
+   "ruby": [
+    {
+     "a": "吉日",
+     "r": "きちにち"
+    },
+    {
+     "a": "弘",
+     "r": "ひろ"
+    },
+    {
+     "a": "菊日和",
+     "r": "きくびより"
+    }
+   ]
+  },
+  {
+   "id": "kafu-hyakku-000089",
+   "pid": "",
+   "pages": [],
+   "no": 89,
+   "vol": "秋之部",
+   "kotobagaki": "",
+   "author": "",
+   "text": "行秋や雨にもならで暮るゝ空",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "haiku",
+   "ruby": [
+    {
+     "a": "行秋",
+     "r": "ゆくあき"
+    }
+   ]
+  },
+  {
+   "id": "kafu-hyakku-000090",
+   "pid": "",
+   "pages": [],
+   "no": 90,
+   "vol": "秋之部",
+   "kotobagaki": "",
+   "author": "",
+   "text": "秋雨や夕餉の箸の手くらがり",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "haiku",
+   "ruby": [
+    {
+     "a": "秋雨",
+     "r": "あきさめ"
+    },
+    {
+     "a": "夕餉",
+     "r": "ゆふげ"
+    },
+    {
+     "a": "箸",
+     "r": "はし"
+    }
+   ]
+  },
+  {
+   "id": "kafu-hyakku-000091",
+   "pid": "",
+   "pages": [],
+   "no": 91,
+   "vol": "秋之部",
+   "kotobagaki": "",
+   "author": "",
+   "text": "雨やんで庭しづかなり秋の蝶",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "haiku",
+   "ruby": [
+    {
+     "a": "蝶",
+     "r": "てふ"
+    }
+   ]
+  },
+  {
+   "id": "kafu-hyakku-000092",
+   "pid": "",
+   "pages": [],
+   "no": 92,
+   "vol": "秋之部",
+   "kotobagaki": "",
+   "author": "",
+   "text": "昼月や木ずゑに残る柿一ツ",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "haiku",
+   "ruby": [
+    {
+     "a": "昼月",
+     "r": "ひるづき"
+    },
+    {
+     "a": "木",
+     "r": "こ"
+    },
+    {
+     "a": "一",
+     "r": "ひと"
+    }
+   ]
+  },
+  {
+   "id": "kafu-hyakku-000093",
+   "pid": "",
+   "pages": [],
+   "no": 93,
+   "vol": "冬之部",
+   "kotobagaki": "",
+   "author": "",
+   "text": "初霜や物干竿の節の上",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "haiku",
+   "ruby": [
+    {
+     "a": "物干竿",
+     "r": "ものほしざを"
+    },
+    {
+     "a": "節",
+     "r": "ふし"
+    },
+    {
+     "a": "上",
+     "r": "うへ"
+    }
+   ]
+  },
+  {
+   "id": "kafu-hyakku-000094",
+   "pid": "",
+   "pages": [],
+   "no": 94,
+   "vol": "冬之部",
+   "kotobagaki": "",
+   "author": "",
+   "text": "降りやみし時雨のあとや八ツ手の葉",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "haiku",
+   "ruby": [
+    {
+     "a": "時雨",
+     "r": "しぐれ"
+    },
+    {
+     "a": "八",
+     "r": "や"
+    },
+    {
+     "a": "手",
+     "r": "で"
+    }
+   ]
+  },
+  {
+   "id": "kafu-hyakku-000095",
+   "pid": "",
+   "pages": [],
+   "no": 95,
+   "vol": "冬之部",
+   "kotobagaki": "",
+   "author": "",
+   "text": "釣干菜それ者と見ゆる人の果",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "haiku",
+   "ruby": [
+    {
+     "a": "釣干菜",
+     "r": "つりほしな"
+    },
+    {
+     "a": "者",
+     "r": "しや"
+    },
+    {
+     "a": "果",
+     "r": "はて"
+    }
+   ]
+  },
+  {
+   "id": "kafu-hyakku-000096",
+   "pid": "",
+   "pages": [],
+   "no": 96,
+   "vol": "冬之部",
+   "kotobagaki": "",
+   "author": "",
+   "text": "箱庭も浮世におなじ木の葉かな",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "haiku",
+   "ruby": [
+    {
+     "a": "箱庭",
+     "r": "はこには"
+    },
+    {
+     "a": "木",
+     "r": "こ"
+    },
+    {
+     "a": "葉",
+     "r": "は"
+    }
+   ]
+  },
+  {
+   "id": "kafu-hyakku-000097",
+   "pid": "",
+   "pages": [],
+   "no": 97,
+   "vol": "冬之部",
+   "kotobagaki": "",
+   "author": "",
+   "text": "古足袋の四十もむかし古机",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "haiku",
+   "ruby": [
+    {
+     "a": "古足袋",
+     "r": "ふるたび"
+    },
+    {
+     "a": "四十",
+     "r": "しじふ"
+    },
+    {
+     "a": "古机",
+     "r": "ふるづくゑ"
+    }
+   ]
+  },
+  {
+   "id": "kafu-hyakku-000098",
+   "pid": "",
+   "pages": [],
+   "no": 98,
+   "vol": "冬之部",
+   "kotobagaki": "代地河岸の閑居二句",
+   "author": "",
+   "text": "北向の庭にさす日や敷松葉",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "haiku",
+   "ruby": [
+    {
+     "a": "北向",
+     "r": "きたむき"
+    },
+    {
+     "a": "敷松葉",
+     "r": "しきまつば"
+    }
+   ]
+  },
+  {
+   "id": "kafu-hyakku-000099",
+   "pid": "",
+   "pages": [],
+   "no": 99,
+   "vol": "冬之部",
+   "kotobagaki": "",
+   "author": "",
+   "text": "垣越しの一中節や冬の雨",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "haiku",
+   "ruby": [
+    {
+     "a": "垣",
+     "r": "かき"
+    },
+    {
+     "a": "一中節",
+     "r": "いつちゆうぶし"
+    }
+   ]
+  },
+  {
+   "id": "kafu-hyakku-000100",
+   "pid": "",
+   "pages": [],
+   "no": 100,
+   "vol": "冬之部",
+   "kotobagaki": "",
+   "author": "",
+   "text": "よみさしの小本ふせたる炬燵哉",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "haiku",
+   "ruby": [
+    {
+     "a": "小本",
+     "r": "こほん"
+    },
+    {
+     "a": "炬燵",
+     "r": "こたつ"
+    },
+    {
+     "a": "哉",
+     "r": "かな"
+    }
+   ]
+  },
+  {
+   "id": "kafu-hyakku-000101",
+   "pid": "",
+   "pages": [],
+   "no": 101,
+   "vol": "冬之部",
+   "kotobagaki": "",
+   "author": "",
+   "text": "小机に墨摺る音や夜半の冬",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "haiku",
+   "ruby": [
+    {
+     "a": "小机",
+     "r": "こづくゑ"
+    },
+    {
+     "a": "摺",
+     "r": "す"
+    },
+    {
+     "a": "夜半",
+     "r": "よは"
+    }
+   ]
+  },
+  {
+   "id": "kafu-hyakku-000102",
+   "pid": "",
+   "pages": [],
+   "no": 102,
+   "vol": "冬之部",
+   "kotobagaki": "",
+   "author": "",
+   "text": "冬空や麻布の坂の上りおり",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "haiku",
+   "ruby": [
+    {
+     "a": "麻布",
+     "r": "あざぶ"
+    },
+    {
+     "a": "上",
+     "r": "あが"
+    }
+   ]
+  },
+  {
+   "id": "kafu-hyakku-000103",
+   "pid": "",
+   "pages": [],
+   "no": 103,
+   "vol": "冬之部",
+   "kotobagaki": "",
+   "author": "",
+   "text": "門を出て行先まどふ雪見かな",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "haiku",
+   "ruby": [
+    {
+     "a": "門",
+     "r": "もん"
+    },
+    {
+     "a": "出",
+     "r": "で"
+    },
+    {
+     "a": "行先",
+     "r": "ゆくさき"
+    }
+   ]
+  },
+  {
+   "id": "kafu-hyakku-000104",
+   "pid": "",
+   "pages": [],
+   "no": 104,
+   "vol": "冬之部",
+   "kotobagaki": "",
+   "author": "",
+   "text": "雪になる小降りの雨や暮の鐘",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "haiku",
+   "ruby": [
+    {
+     "a": "小降",
+     "r": "こぶ"
+    },
+    {
+     "a": "鐘",
+     "r": "かね"
+    }
+   ]
+  },
+  {
+   "id": "kafu-hyakku-000105",
+   "pid": "",
+   "pages": [],
+   "no": 105,
+   "vol": "冬之部",
+   "kotobagaki": "",
+   "author": "",
+   "text": "湯帰りや燈ともしころの雪もよひ",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "haiku",
+   "ruby": [
+    {
+     "a": "湯帰",
+     "r": "ゆがへ"
+    },
+    {
+     "a": "燈",
+     "r": "ひ"
+    }
+   ]
+  },
+  {
+   "id": "kafu-hyakku-000106",
+   "pid": "",
+   "pages": [],
+   "no": 106,
+   "vol": "冬之部",
+   "kotobagaki": "",
+   "author": "",
+   "text": "窓の燈やわが家うれしき夜の雪",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "haiku",
+   "ruby": [
+    {
+     "a": "家",
+     "r": "や"
+    },
+    {
+     "a": "夜",
+     "r": "よる"
+    }
+   ]
+  },
+  {
+   "id": "kafu-hyakku-000107",
+   "pid": "",
+   "pages": [],
+   "no": 107,
+   "vol": "冬之部",
+   "kotobagaki": "",
+   "author": "",
+   "text": "寒き夜や物読みなるゝ膝の上",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "haiku",
+   "ruby": [
+    {
+     "a": "夜",
+     "r": "よ"
+    },
+    {
+     "a": "膝",
+     "r": "ひざ"
+    },
+    {
+     "a": "上",
+     "r": "うへ"
+    }
+   ]
+  },
+  {
+   "id": "kafu-hyakku-000108",
+   "pid": "",
+   "pages": [],
+   "no": 108,
+   "vol": "冬之部",
+   "kotobagaki": "",
+   "author": "",
+   "text": "冬ざれや雨にぬれたる枯葉竹",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "haiku",
+   "ruby": [
+    {
+     "a": "枯葉竹",
+     "r": "かれはだけ"
+    }
+   ]
+  },
+  {
+   "id": "kafu-hyakku-000109",
+   "pid": "",
+   "pages": [],
+   "no": 109,
+   "vol": "冬之部",
+   "kotobagaki": "",
+   "author": "",
+   "text": "襟まきやしのぶ浮世の裏通",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "haiku",
+   "ruby": [
+    {
+     "a": "襟",
+     "r": "えり"
+    },
+    {
+     "a": "裏通",
+     "r": "うらどほり"
+    }
+   ]
+  },
+  {
+   "id": "kafu-hyakku-000110",
+   "pid": "",
+   "pages": [],
+   "no": 110,
+   "vol": "冬之部",
+   "kotobagaki": "",
+   "author": "",
+   "text": "落る葉は残らず落ちて昼の月",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "haiku",
+   "ruby": [
+    {
+     "a": "落",
+     "r": "おち"
+    }
+   ]
+  },
+  {
+   "id": "kafu-hyakku-000111",
+   "pid": "",
+   "pages": [],
+   "no": 111,
+   "vol": "冬之部",
+   "kotobagaki": "",
+   "author": "",
+   "text": "落残る赤き木の実や霜柱",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "haiku",
+   "ruby": [
+    {
+     "a": "落残",
+     "r": "おちのこ"
+    },
+    {
+     "a": "木",
+     "r": "き"
+    },
+    {
+     "a": "実",
+     "r": "み"
+    }
+   ]
+  },
+  {
+   "id": "kafu-hyakku-000112",
+   "pid": "",
+   "pages": [],
+   "no": 112,
+   "vol": "冬之部",
+   "kotobagaki": "",
+   "author": "",
+   "text": "荒庭や桐の実つゝく寒雀",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "haiku",
+   "ruby": [
+    {
+     "a": "荒庭",
+     "r": "あれには"
+    },
+    {
+     "a": "寒雀",
+     "r": "かんすずめ"
+    }
+   ]
+  },
+  {
+   "id": "kafu-hyakku-000113",
+   "pid": "",
+   "pages": [],
+   "no": 113,
+   "vol": "冬之部",
+   "kotobagaki": "",
+   "author": "",
+   "text": "昼間から錠さす門の落葉哉",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "haiku",
+   "ruby": [
+    {
+     "a": "錠",
+     "r": "ぢやう"
+    },
+    {
+     "a": "門",
+     "r": "かど"
+    }
+   ]
+  },
+  {
+   "id": "kafu-hyakku-000114",
+   "pid": "",
+   "pages": [],
+   "no": 114,
+   "vol": "冬之部",
+   "kotobagaki": "",
+   "author": "",
+   "text": "冬空や風に吹かれて沈む月",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "haiku"
+  },
+  {
+   "id": "kafu-hyakku-000115",
+   "pid": "",
+   "pages": [],
+   "no": 115,
+   "vol": "冬之部",
+   "kotobagaki": "",
+   "author": "",
+   "text": "寒月やいよ／＼冴えて風の声",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "haiku",
+   "ruby": [
+    {
+     "a": "寒月",
+     "r": "かんげつ"
+    },
+    {
+     "a": "冴",
+     "r": "さ"
+    }
+   ]
+  },
+  {
+   "id": "kafu-hyakku-000116",
+   "pid": "",
+   "pages": [],
+   "no": 116,
+   "vol": "冬之部",
+   "kotobagaki": "小松川漫歩三句",
+   "author": "",
+   "text": "あちこちに分るゝ水や村千鳥",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "haiku",
+   "ruby": [
+    {
+     "a": "分",
+     "r": "わか"
+    },
+    {
+     "a": "村千鳥",
+     "r": "むらちどり"
+    }
+   ]
+  },
+  {
+   "id": "kafu-hyakku-000117",
+   "pid": "",
+   "pages": [],
+   "no": 117,
+   "vol": "冬之部",
+   "kotobagaki": "",
+   "author": "",
+   "text": "寒き日や川に落込む川の水",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "haiku",
+   "ruby": [
+    {
+     "a": "落込",
+     "r": "おちこ"
+    }
+   ]
+  },
+  {
+   "id": "kafu-hyakku-000118",
+   "pid": "",
+   "pages": [],
+   "no": 118,
+   "vol": "冬之部",
+   "kotobagaki": "",
+   "author": "",
+   "text": "大根干す茅の軒端や舟大工",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "haiku",
+   "ruby": [
+    {
+     "a": "大根",
+     "r": "だいこ"
+    },
+    {
+     "a": "茅",
+     "r": "かや"
+    },
+    {
+     "a": "軒端",
+     "r": "のきば"
+    },
+    {
+     "a": "舟大工",
+     "r": "ふなだいく"
+    }
+   ]
+  },
+  {
+   "id": "kafu-hyakku-000119",
+   "pid": "",
+   "pages": [],
+   "no": 119,
+   "vol": "冬之部",
+   "kotobagaki": "",
+   "author": "",
+   "text": "下駄買うて箪笥の上や年の暮",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "haiku",
+   "ruby": [
+    {
+     "a": "買",
+     "r": "か"
+    },
+    {
+     "a": "箪笥",
+     "r": "たんす"
+    }
+   ]
+  },
+  {
+   "id": "kafu-hyakku-000120",
+   "pid": "",
+   "pages": [],
+   "no": 120,
+   "vol": "冬之部",
+   "kotobagaki": "麻布閑居",
+   "author": "",
+   "text": "座布団も綿ばかりなる師走哉",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "haiku",
+   "ruby": [
+    {
+     "a": "座布団",
+     "r": "ざぶとん"
+    },
+    {
+     "a": "綿",
+     "r": "わた"
+    },
+    {
+     "a": "師走",
+     "r": "しはす"
+    }
+   ]
+  },
+  {
+   "id": "kafu-hyakku-000121",
+   "pid": "",
+   "pages": [],
+   "no": 121,
+   "vol": "冬之部",
+   "kotobagaki": "",
+   "author": "",
+   "text": "行年や鄰うらやむ人の声",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "haiku",
+   "ruby": [
+    {
+     "a": "行年",
+     "r": "ゆくとし"
+    },
+    {
+     "a": "鄰",
+     "r": "となり"
+    }
+   ]
+  }
+ ]
+}
